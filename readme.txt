@@ -1,6 +1,6 @@
 === RTL Theme Maker Plugin ===
 Contributors: Uri Goren
-Donate link: http://www.primal.co.il
+Donate link: http://www.goren.ml
 Tags: right,left,hebrew,arabic,thai,rtl,ltr
 Requires at least: 2.9
 Tested up to: 2.9
